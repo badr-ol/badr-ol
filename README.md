@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Badr-15&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Badr-15&layout=compact&theme=algolia"/>
+<a href="https://github.com/badr-ol">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=badr-ol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=badr-ol&layout=compact&theme=algolia"/>
 </a>
 </p>
