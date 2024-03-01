@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://github.com/badr-ol">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=badr-ol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=badr-ol&layout=compact&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=badr-ol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=badr-ol&layout=compact&theme=algolia"/>
 </a>
 </p>
